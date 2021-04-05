@@ -18,4 +18,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there I'm Dave!👋
+
+[<img src="twitter.png" width="30">](https://twitter.com/davejacobseniOS)
+[<img src="linkedin.png" width="30">](https://www.linkedin.com/in/davidjacobsen1/)
+[<img src="youtube.png" width="30">](https://www.youtube.com/c/davejacobsenios)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=davejacobsen.davejacobsen)
+
 -->
